@@ -4,24 +4,24 @@
 
 <p align="left">I’m a Master’s student in Game Design and Development at RIT. I am an aspiring Game Developer with a passion for creating engaging gaming experiences. I have experience in software engineering and data solutions, and I excel in collaborative environments while continually seeking mentorship and opportunities for growth.</p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681562508365/k96z0x3Vj.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urvashi1206&label=Profile%20views&color=0e75b6&style=flat" alt="urvashi1206" /> </p>
 
+- 🌱 I’m currently learning **Unity VR, Unreal, Data Structures and OpenGL**
 
-<p align="left"> <a href="https://twitter.com/_prathmeshc" target="_blank"><img src="https://img.shields.io/twitter/follow/_prathmeshc?logo=twitter&style=for-the-badge" alt="_prathmeshc" /></a> </p>
+- 👨‍💻 All of my projects are available at [https://portfoliourvashi.mystrikingly.com/](https://portfoliourvashi.mystrikingly.com/)
 
-- 🌱 I’m currently learning **iOS Development**
+- 💬 Ask me about **Data Engineering**
 
-- 💬 Ask me about **Android, Kotlin, System Design**
-
-- 📫 How to reach me **chaudhari.prat@gmail.com**
+- 📫 How to reach me **dhingraurvashi99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_prathmeshc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_prathmeshc" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prathmeshchaudhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathmeshchaudhari" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/urvashidhingra12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="urvashi1206" height="30" width="40" /></a>
+<a href="https://discord.gg/_urvashi1206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="urvashi1206" height="30" width="40" /></a>
+<a href="https://x.com/Urvashi1206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="urvashi1206" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
