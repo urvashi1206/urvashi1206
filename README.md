@@ -18,6 +18,7 @@ I’m a Master’s student in Game Design and Development at RIT. I am an aspiri
 
 - 📫 How to reach me **dhingraurvashi99@gmail.com**
 
+<!-- Connect -->
 ## Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/urvashidhingra12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="urvashi1206" height="30" width="30" /></a>
@@ -25,6 +26,7 @@ I’m a Master’s student in Game Design and Development at RIT. I am an aspiri
 <a href="https://x.com/Urvashi1206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="urvashi1206" height="30" width="30" /></a>
 </p>
 
+<!-- Skills -->
 ## Languages and Tools:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
@@ -54,6 +56,7 @@ I’m a Master’s student in Game Design and Development at RIT. I am an aspiri
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 
+<!-- Github Stats -->
 # 📊 GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=urvashi1206&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=0d1117&bg_color=0d1117)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=urvashi1206&background=0d1117&border=0d1117&stroke=57cdf1&ring=57cdf1&fire=57cdf1&currStreakNum=57cdf1&sideNums=57cdf1&currStreakLabel=57cdf1&sideLabels=57cdf1&dates=ffffff)
