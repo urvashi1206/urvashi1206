@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://github.com/urvashi1206/mariogif/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 1000px; height: 400px; display: inline-block;">
+<img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif">
 
 <!-- Intro -->
 <h1 align="center">Hello 👋, I'm Urvashi</h1>
