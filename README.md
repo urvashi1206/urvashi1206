@@ -6,7 +6,7 @@
 
 <!-- About Me -->
 ## A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-I’m a Master’s student in Game Design and Development at RIT. I am an aspiring Game Developer and Data Engineer with a passion for creating engaging gaming experiences and innovative data solutions. I have experience in software engineering and data engineering, and I excel in collaborative environments while continually seeking mentorship and opportunities for growth.
+I’m a Master’s student in Game Design and Development at RIT. I am an aspiring Data Engineer and a Game Developer passionate about creating engaging gaming experiences and innovative data solutions. I have experience in  data engineering and software engineering, and I excel in collaborative environments while continually seeking mentorship and opportunities for growth.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urvashi1206&label=Profile%20views&color=0e75b6&style=flat" alt="urvashi1206" /> </p>
 
