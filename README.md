@@ -6,15 +6,18 @@
 
 <!-- About Me -->
 ## A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-I’m a Master’s student in Game Design and Development at RIT. I am an aspiring Data Engineer and a Game Developer passionate about creating engaging gaming experiences and innovative data solutions. I have experience in  data engineering and software engineering, and I excel in collaborative environments while continually seeking mentorship and opportunities for growth.
+Master’s graduate from RIT with a focus on building high-performance, scalable software and immersive simulations. I specialize in bridging the gap between Clean Architecture and real-time 3D environments.
+Currently, I am focused on engineering the next generation of production-ready Digital Twins and AI-driven simulations. I don't just build features; I build production-grade infrastructure that powers them.
+
+Beyond simulations, I have a deep foundation in full-scale software engineering, ranging from designing secure RESTful APIs to orchestrating massive, multi-terabyte data pipelines. I am a firm advocate for SOLID principles and maintainable codebases, with extensive experience deploying containerized cloud infrastructure and automating complex CI/CD workflows. My approach combines the rigorous performance optimization required for data engineering with the creative problem-solving of real-time graphics to deliver resilient, high-impact software solutions.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urvashi1206&label=Profile%20views&color=0e75b6&style=flat" alt="urvashi1206" /> </p>
 
-- 🌱 I’m currently learning **Unreal, Unity VR, Data Structures and OpenGL**
+- 🌱 I’m currently deep-diving into **High-Fidelity Simulations, Low-Level Optimization, Scalable Architecture and Advanced Data Structures and algorithms**
 
-- 👨‍💻 All of my projects are available at [https://portfoliourvashi.mystrikingly.com/](https://portfoliourvashi.mystrikingly.com/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://urvashi1206.github.io/)
 
-- 💬 Ask me about **Data Engineering**
+- 💬 Ask me about **Software Engineering**
 
 - 📫 How to reach me **dhingraurvashi99@gmail.com**
 
